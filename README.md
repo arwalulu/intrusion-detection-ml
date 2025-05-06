@@ -22,3 +22,11 @@ This project is designed to run in Google Colab, which already includes most dep
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+
+## 🚀 Getting Started
+
+1. Clone this repository or download the notebook file:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/intrusion-detection-ml.git
+
